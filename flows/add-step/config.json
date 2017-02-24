@@ -1,0 +1,14 @@
+{
+  "name": "add-step",
+  "description": "Add a step to a piscosour recipe",
+  "steps": {
+    "add-step": {
+      "recipe": {
+        "requires": {
+          "pisco-recipe-generator": "^0.4.1"
+        }
+      }
+    }
+
+  }
+}

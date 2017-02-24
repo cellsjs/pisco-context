@@ -1,0 +1,14 @@
+{
+  "name": "add-context",
+  "description": "Add a context to a piscosour recipe",
+  "steps": {
+    "add-context": {
+      "recipe": {
+        "requires": {
+          "pisco-recipe-generator": "^0.4.1"
+        }
+      }
+    }
+
+  }
+}
