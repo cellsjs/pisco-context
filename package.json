@@ -1,24 +1,18 @@
 {
   "name": "pisco-contexts",
-  "version": "0.2.0-alpha.1",
+  "version": "0.2.0-beta.1",
   "description": "Contexts of piscosour",
   "main": "bin/pisco.js",
-  "bin": {
-    "pisco-contexts": "bin/pisco.js"
-  },
   "scripts": {
-    "deps": "npm install",
-    "test": "node_modules/.bin/mocha"
+    "deps": "npm install"
   },
   "keywords": [
     "piscosour-recipe"
   ],
   "license": "ISC",
   "preferGlobal": true,
-  "dependencies": {
-    "piscosour": "^1.0.0-alpha.8"
-  },
   "devDependencies": {
+    "piscosour": "^1.0.0",
     "chai": "*",
     "mocha": "*"
   },

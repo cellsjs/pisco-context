@@ -2,10 +2,10 @@
   "name": "create",
   "description": "Create new recipe from scratch",
   "steps": {
-    "add-create": {
+    "recipe-create": {
       "recipe": {
         "requires": {
-          "pisco-recipe-generator": "^0.4.1"
+          "pisco-recipe-generator": "^0.5.0"
         }
       }
     }

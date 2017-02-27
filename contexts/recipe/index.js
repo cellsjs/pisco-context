@@ -1,5 +1,5 @@
 'use strict';
-const fsUtils = require('../../lib/utils/fsUtils');
+const fsUtils = require('../../lib/fsUtils');
 
 module.exports = {
 
