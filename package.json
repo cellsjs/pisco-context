@@ -9,7 +9,7 @@
   "keywords": [
     "piscosour-recipe"
   ],
-  "license": "ISC",
+  "license": "Apache Licence",
   "preferGlobal": true,
   "devDependencies": {
     "piscosour": "^1.0.0",
