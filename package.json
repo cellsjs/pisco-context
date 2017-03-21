@@ -1,6 +1,6 @@
 {
   "name": "pisco-contexts",
-  "version": "0.3.1-beta.0",
+  "version": "0.3.1-rc.0",
   "description": "Contexts of piscosour",
   "main": "bin/pisco.js",
   "scripts": {
