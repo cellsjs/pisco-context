@@ -1,6 +1,7 @@
 {
   "name": "create",
   "description": "Create new recipe from scratch",
+  "isGenerator": true,
   "steps": {
     "recipe-create": {
       "recipe": {
