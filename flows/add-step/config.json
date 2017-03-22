@@ -5,7 +5,7 @@
     "add-step": {
       "recipe": {
         "requires": {
-          "pisco-recipe-generator": "^0.4.1"
+          "pisco-recipe-generator": "^1.0.0"
         }
       }
     }

@@ -6,7 +6,7 @@
     "recipe-create": {
       "recipe": {
         "requires": {
-          "pisco-recipe-generator": "^0.5.0"
+          "pisco-recipe-generator": "^1.0.0"
         }
       }
     }
