@@ -1,7 +1,7 @@
 {
-  "type": "util",
-  "name": "test",
+  "name": "test-core",
   "description": "Testing for piscosour",
+  "type": "util",
   "params": {
     "plugins": [
       "test"
